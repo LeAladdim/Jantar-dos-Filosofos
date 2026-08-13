@@ -1,4 +1,3 @@
-package jantarFilosofos;
 
 import java.util.concurrent.Semaphore;
 import java.util.Scanner;
