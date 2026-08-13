@@ -1,5 +1,18 @@
 # Jantar-dos-Filosofos
-° Programa para resolver o famigerado dilema do Jantar dos Filósofos
+Programa para resolver o famigerado dilema do Jantar dos Filósofos em que:
+
+° Cinco filósofos sentam-se a uma mesa redonda.
+° Há um prato de macarrão para cada um e um garfo entre cada par de pratos.
+° Cada filósofo alterna entre pensar e comer.
+° Para comer, o filósofo precisa pegar os dois garfos adjacentes (um à esquerda e outro à direita).
+
+Os Desafios:
+
+° Se todos os filósofos sentirem fome ao mesmo tempo e pegarem primeiro o garfo da sua direita, cada um ficará com um garfo na mão.
+
+° O segundo garfo necessário estará ocupado pelo vizinho.
+
+° Nenhum deles conseguirá comer nem largar o garfo para liberar o próximo, gerando um bloqueio infinito (deadlock)
 
 
 Esse problema busca elucidar conceitos como Starving e Badlock, além de estimular o uso e o aprendizado de táticas para evitar tais problemas. A linguagem escolhida foi Java, e algumas das estratégias utilizadas foram: 
